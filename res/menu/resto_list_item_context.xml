@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/menu_item_delete_resto"
+    android:icon="@android:drawable/ic_menu_delete"
+    android:title="Delete"/>
+  <item android:id="@+id/menu_item_navigate_resto"
+    android:title="Navigate To"/>
+  <item android:id="@+id/menu_item_map_resto"
+    android:title="Map Of"/>
+  <item android:id="@+id/menu_item_dial_resto"
+    android:title="Dial"/>
+  <item android:id="@+id/menu_item_detail_resto"
+    android:title="Detail"/>
+  <item android:id="@+id/menu_item_yelp_resto"
+    android:title="Yelp Page"/>
+  <item android:id="@+id/menu_item_photo_resto"
+    android:title="Take/Update Photo"/>
+  <item android:id="@+id/menu_item_notes_resto"
+    android:title="Notes"/>
+</menu>

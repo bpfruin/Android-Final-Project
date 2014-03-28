@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_item_new_resto"
+        android:icon="@android:drawable/ic_menu_add"
+        android:name="@string/new_resto"
+        android:showAsAction="ifRoom|withText"
+ />
+        <item android:id="@+id/menu_item_exit"
+        android:name="@string/show_subtitle"
+        android:title="Exit"
+        android:showAsAction="never"
+ />
+</menu>

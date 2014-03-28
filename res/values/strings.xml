@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">proFavRestos</string>
+  <string name="resto_title_hint">Enter a name for this resto.</string>
+  <string name="resto_name_label">Name</string>
+  <string name="resto_phone_label">Phone</string>
+  <string name="resto_latlong_label">Lat,Long</string>
+  <string name="resto_address_label">Address</string>
+   <string name="resto_yelp_label">Yelp</string>
+
+    <string name="crime_city_label">City</string>
+  <string name="crime_details_label">DETAILS:</string>
+  <string name="crime_solved_label">Solved?</string>
+  <string name="date_picker_title">Date of resto:</string>
+  <string name="restos_title">Restos</string>
+  <string name="new_resto">New Resto</string>
+  <string name="show_subtitle">Show Subtitle</string>
+  <string name="hide_subtitle">Hide Subtitle</string>
+  <string name="subtitle">Sometimes tolerance is not a virtue.</string>
+  <string name="delete_crime">Delete Crime</string>
+  <string name="take">Take!</string>
+
+
+    <string name="map_button_label">See Resto On Map</string>
+    <string name="navigate_button_label">Navigate To Resto</string>
+    <string name="dial_button_label">Dial</string>
+    <string name="yelp_button_label">Extract Details From Yelp</string>
+    <string name="notes_button_label">Notes</string>
+    <string name="yelp_hint">Enter a yelp url for this resto</string>
+    <string name="address_hint">Enter an address for this resto</string>
+    <string name="latlong_hint">Enter lat,long for this resto</string>
+    <string name="phone_hint">Enter a phone number for this resto</string>
+    <string name="city_hint">Enter a city for this resto</string>
+    <string name="name_hint">Enter a name for this resto</string>
+
+</resources>

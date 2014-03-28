@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_item_yelp_detail"
+          android:title="Extract Details From Yelp"/>
+    <item android:id="@+id/menu_item_yelp_page_detail"
+          android:title="Go To Yelp Page"/>
+    <item android:id="@+id/menu_item_notes_detail"
+          android:title="Notes"/>
+    <item android:id="@+id/menu_item_photo_detail"
+          android:title="Take/Update Photo"/>
+    <item android:id="@+id/menu_item_map_detail"
+          android:title="Map of"/>
+    <item android:id="@+id/menu_item_nav_detail"
+          android:title="Navigate to"/>
+    <item android:id="@+id/menu_item_exit_detail"
+          android:title="Exit"/>
+
+</menu>
